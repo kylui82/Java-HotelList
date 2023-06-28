@@ -1,0 +1,27 @@
+Catalonia Playa Maroma, Stars: 3, Price: 90
+Riu Tequila, Stars: 3, Price: 90
+Catalonia Yucatan, Stars: 3, Price: 100
+Tukan Hotel And Beach Club, Stars: 3, Price: 100
+Dreams Puerto Aventuras, Stars: 3, Price: 110
+Ocean Turquesa, Stars: 3, Price: 110
+Riu Lupita, Stars: 3, Price: 110
+El Dorado Seaside, Stars: 3, Price: 120
+Barcelo Maya Colonial, Stars: 4, Price: 140
+Allegro Playacar Beach Club, Stars: 4, Price: 150
+Barcelo Maya Beach, Stars: 4, Price: 160
+Oasis Tulum, Stars: 4, Price: 160
+Barcelo Maya Caribe, Stars: 4, Price: 170
+Iberostar Paraiso Lindo, Stars: 5, Price: 180
+Fairmont Mayakoba, Stars: 5, Price: 190
+Grand Riviera Princess, Stars: 5, Price: 190
+Iberostar Paraiso Del Mar, Stars: 5, Price: 190
+Royal Playa Del Carmen, Stars: 5, Price: 190
+Royalton Riviera Resort And Spa, Stars: 5, Price: 190
+Blue Bay Grand Esmeralda, Stars: 5, Price: 200
+Iberostar Paraiso Maya, Stars: 5, Price: 200
+Azul Fives Hotel, Stars: 5, Price: 210
+Occidental Grand Xcaret, Stars: 5, Price: 210
+Iberostar Paraiso Beach, Stars: 5, Price: 220
+Luxury Grand Bahia Principe Akumal, Stars: 5, Price: 220
+Platinum Yucatan Princess Suites And Spa, Stars: 5, Price: 230
+Grand Bahia Principe Coba, Stars: 5, Price: 250
